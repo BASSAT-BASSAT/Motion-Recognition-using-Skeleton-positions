@@ -1,0 +1,29 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# IDE and editor folders
+.idea/
+.vscode/
+
+
+
+# Data files 
+csvs_Skeleton_poses_*/
+/data/
+
+# Output files
+output_videos/
+
+# Saved models
+*.pth
